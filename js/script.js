@@ -40,7 +40,3 @@ function addStringToArray() {
 // Initial update of centered div
 updateCenteredDiv();
 
-function toggleScale() {
-    var button = document.querySelector('button');
-    button.classList.toggle('clicked');
-}
