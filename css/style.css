@@ -44,7 +44,7 @@ html body button{
 }
 html body button {
     transform: scale(1);
-    transition: transform 0.105s ease-in-out;
+    transition: transform 0.15s ease-in-out;
 }
 
 html body button:hover {
