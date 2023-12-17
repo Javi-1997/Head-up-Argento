@@ -1,4 +1,4 @@
-const lista=["Ricardo Darín","Andrea del Boca","Javier Bardem","Luis Brandoni","Soledad Villamil","Ricardo Piglia",
+const lista=["Ricardo Darín","Andrea del Boca","Javier Bardem","Luis Brandoni","Soledad Silveyra","Ricardo Piglia",
 "Cecilia Roth","Federico Luppi","Mercedes Morán","Valeria Bertuccelli","Alberto Ammann","Dolores Fonzi","Gastón Pauls",
 "Érica Rivas","Lito Cruz","Leonardo Sbaraglia","Susana Giménez","Natalia Oreiro","Diego Peretti"];
 
