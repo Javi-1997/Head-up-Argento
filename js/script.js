@@ -23,4 +23,4 @@ function addStringToArray() {
 
 
 updateCenteredDiv();
-
+addStringToArray();

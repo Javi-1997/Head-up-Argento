@@ -9,6 +9,9 @@ body {
 h1{
     font-size: 56px;
 }
+h2{
+    font-size: 44px;
+}
 .centered-div {
     font-size: 60px;
     border-style:double;
