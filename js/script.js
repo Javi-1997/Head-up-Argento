@@ -1,6 +1,7 @@
-const lista=["Ricardo Darín","Andrea del Boca","Javier Bardem","Luis Brandoni","Soledad Silveyra","Ricardo Piglia",
-"Cecilia Roth","Federico Luppi","Mercedes Morán","Valeria Bertuccelli","Alberto Ammann","Dolores Fonzi","Gastón Pauls",
-"Érica Rivas","Lito Cruz","Leonardo Sbaraglia","Susana Giménez","Natalia Oreiro","Diego Peretti"];
+const lista=["Ricardo Darín","Andrea del Boca","Javier Bardem","Luis Brandoni","Soledad Silveyra","Guido Kaczka",
+"Carmen Barbieri","Adrian Suar","Ricardo Montaner","Valeria Bertuccelli","Ricardo Fort","Moria Casan","Gastón Pauls",
+"Érica Rivas","Guillermo Franchella","Leonardo Sbaraglia","Susana Giménez","Natalia Oreiro","Diego Peretti","Osvaldo Laport","Sebastian Estebanez",
+"Peter Capusotto"];
 
 let randomString = lista[Math.floor(Math.random() * lista.length)];
 
