@@ -24,3 +24,4 @@ function addStringToArray() {
 
 updateCenteredDiv();
 addStringToArray();
+console.log(lista);
